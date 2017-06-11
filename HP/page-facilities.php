@@ -126,7 +126,37 @@
       <p id="title1Eng"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title1_eng.gif" width="46" height="11"  alt="facilities"></p>
     </header>
     <section class="contentsMain">
-      
+      <div class="tableType1Box">
+				<table class="tableType1 mt25" cellspacing="0">
+					<tr>
+						<th>モビリティ</th>
+						<td>三次元フライングロボット，アクティブデフ，AWD自転車　他</td>
+					</tr>
+                     <tr>
+						<th>知能機械</th>
+						<td>表情認識機，肌分析機，火花試験機　他</td>
+					</tr>
+                    <tr>
+						<th>医療介護</th>
+						<td>マッスルスーツ，アクティブ歩行器　他</td>
+					</tr>
+                    <tr>
+						<th>生活支援</th>
+						<td>搾乳機，ポータブルトイレ　他</td>
+					</tr>
+					
+                    <tr>
+						<th>エネルギ</th>
+						<td>再生可能エネルギ　他</td>
+					</tr>
+                    <tr>
+						<th>農業</th>
+						<td>腕保持装置　他</td>
+					</tr>
+              
+                    
+				</table>
+			</div>
       <ul class="facilitiesList listBlock clearfix">
         <li><figure>
           <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" data=""-original="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" width="220" height="162">
@@ -163,7 +193,7 @@
       </ul>
     </section>
     <section class="contentsMain cType2">
-      <h2 class="title2_1 pb5"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title2_2.gif" width="172" height="36"  alt="入院・リハビリフロア"></h2>
+      <h2 class="title2_1 pb5"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title2_2.gif" width="172" height="36"  alt="FA，エネルギー，人工知能"></h2>
       <ul class="facilitiesList listBlock clearfix">
         <li><figure>
           <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" width="220" height="162">
@@ -178,7 +208,7 @@
           <figcaption>新エネルギー</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_41.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/3D.png" width="220" height="162">
           <figcaption>3Dアーカイビング</figcaption>
         </figure></li>
         <li><figure>

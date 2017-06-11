@@ -198,7 +198,7 @@
 <!-- /mainArea -->
 <!-- visualArea -->
 <div id="visualArea">
-<div id="backimgfacilities" class="slide-left"></div>
+<div id="backimghospitalized" class="slide-left"></div>
 </div>
 <!-- /visualArea -->
     <script>
