@@ -53,7 +53,7 @@
 <!-- /loadingArea -->
 <!-- rightArea -->
 <div id="rightArea">
-	<p id="pageLogo"><a href="<?php echo home_url() ?>"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/logo.gif" width="100" height="106"  alt="医療法人 保田窪会 小林研究室"></a></p>
+	<p id="pageLogo"><a href="<?php echo home_url() ?>"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/logo.gif" width="100" height="106"  alt="小林研究室"></a></p>
   <nav id="menu">
             <ul class="listBlock">
               <li class="current"><a href="<?php echo get_permalink( get_page_by_path( 'news' )->ID ); ?>">
@@ -126,14 +126,14 @@
       <p id="title1Eng"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title1_eng.gif" width="46" height="11"  alt="facilities"></p>
     </header>
     <section class="contentsMain">
-      <h2 class="title2_1 pb5"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title2_1.gif" width="147" height="35"  alt="外観・外来フロア"></h2>
+      
       <ul class="facilitiesList listBlock clearfix">
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_1.png" data=""-original="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_1.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" data=""-original="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" width="220" height="162">
           <figcaption>マッスルスーツ</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_2.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_21.png" width="220" height="162">
           <figcaption>アクティブ歩行器</figcaption>
         </figure></li>
         <li><figure>
@@ -149,7 +149,7 @@
           <figcaption>自立サポートシステム</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_6.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/awd_img_01.jpg" width="220" height="162">
           <figcaption>2WD自転車</figcaption>
         </figure></li>
         <li><figure>
@@ -166,35 +166,35 @@
       <h2 class="title2_1 pb5"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title2_2.gif" width="172" height="36"  alt="入院・リハビリフロア"></h2>
       <ul class="facilitiesList listBlock clearfix">
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_1.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_11.png" width="220" height="162">
           <figcaption>除草ロボット</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_2.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_21.png" width="220" height="162">
           <figcaption>お風呂掃除ロボット</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_3.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_31.png" width="220" height="162">
           <figcaption>新エネルギー</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_4.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_41.png" width="220" height="162">
           <figcaption>3Dアーカイビング</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_51.png" width="220" height="162">
           <figcaption>リハビリテーション室</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_6.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_61.png" width="220" height="162">
           <figcaption>ポータブルトイレ</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_7.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_71.png" width="220" height="162">
           <figcaption>腕回しリハビリロボット</figcaption>
         </figure></li>
         <li><figure>
-          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_8.png" width="220" height="162">
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_81.png" width="220" height="162">
           <figcaption>もも上げロボット</figcaption>
         </figure></li>
       </ul>
