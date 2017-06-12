@@ -127,6 +127,21 @@
       <h1 id="title1"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/hospitalized_title1.gif" width="149" height="33"  alt="研究情報"></h1>
       <p id="title1Eng"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title1_eng.gif" width="46" height="11"  alt="facilities"></p>
     </header>
+       <section class="contentsMain cType2">
+      <h2 class="title2_1 pb5"></h2>
+      <ul class="facilitiesList listBlock clearfix">
+       
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/HK.jpg" width="220" height="162">
+          <figcaption>小林宏</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/TH.JPG" width="220" height="162">
+          <figcaption>足立千里</figcaption>
+        </figure></li>
+
+      </ul>
+    </section>
     <section class="contentsMain cType2">
       <h2 class="title2_1 pb5"></h2>
       <ul class="facilitiesList listBlock clearfix">
@@ -188,7 +203,62 @@
           <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
           <figcaption>森 真沙人</figcaption>
         </figure></li>
+  <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
+          <figcaption>牧野哲裕</figcaption>
+        </figure></li>
+          <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
+          <figcaption>秦 健太</figcaption>
+        </figure></li>
+          <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
+          <figcaption>前田 拓己</figcaption>
+        </figure></li>
+           <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict2_5.png" width="220" height="162">
+          <figcaption>リ ショウ</figcaption>
+        </figure></li>
+        
+      </ul>
+    </section>
+    
+     <section class="contentsMain cType2">
+      <h2 class="title2_1 pb5"></h2>
+      <ul class="facilitiesList listBlock clearfix">
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_1.png" width="220" height="162">
+          <figcaption>長谷川拓実</figcaption>
 
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_2.png" width="220" height="162">
+          <figcaption>二又川求哉</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_3.png" width="220" height="162">
+          <figcaption>菅田瑞貴</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_4.png" width="220" height="162">
+          <figcaption>ハンシコウ</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_5.png" width="220" height="162">
+          <figcaption>福田哲郎</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_6.png" width="220" height="162">
+          <figcaption>池田悠樹</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_7.png" width="220" height="162">
+          <figcaption>細坂冬馬</figcaption>
+        </figure></li>
+        <li><figure>
+          <img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_pict1_8.png" width="220" height="162">
+          <figcaption>古賀知己</figcaption>
+        </figure></li>
       </ul>
     </section>
     <p class="contentsTop"><a href="#pageFacilities"><span>「研究情報」の最初へ戻る</span></a></p>
