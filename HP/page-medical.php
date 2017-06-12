@@ -128,9 +128,20 @@
       <p id="title1Eng"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/medical_title1_eng.gif" width="44" height="11"  alt="medical"></p>
     </header>
    
+   	
+					
+         
+   
     <section class="contentsMain">
 
-
+<div class="hospitalizedListBox mt35">
+				<dl>
+					<dt>	メディア</dt>
+					<dd><a href="/media">新聞掲載一覧</a>	</dd>
+					
+				</dl>
+				
+			</div>
 
             <div class="hospitalizedListBox mt35">
         <dl>

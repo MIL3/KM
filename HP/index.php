@@ -41,6 +41,7 @@
 							<img src="<?php echo esc_url(get_template_directory_uri()); ?>/img/membericon.png" alt="">
 							<p class="menujapan">研究メンバー</p>
 						</a></li>
+                        
 					</ul>
 				</nav>
 			</div>
@@ -86,4 +87,7 @@
 		</footer>
 	</div></div>
 </div>
+
+
+
 <?php get_footer(); ?>
