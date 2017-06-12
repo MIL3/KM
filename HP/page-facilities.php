@@ -125,8 +125,15 @@
       <h1 id="title1"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title1.gif" width="159" height="38"  alt="研究情報"></h1>
       <p id="title1Eng"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/common/images/facilities_title1_eng.gif" width="46" height="11"  alt="facilities"></p>
     </header>
+    
+    <section class="contentsMain cType1">
+     <p class="imgBlock pt40"><img src="http://kobalab.com/wp-content/themes/wporiginal/common/images/topimg2.png" data-original="http://kobalab.com/wp-content/themes/wporiginal/common/images/topimg2.png" width="400" height="265" alt="小林研究室イメージ" style="display: block;"></p>
+     </section>
+    
     <section class="contentsMain">
+   
       <div class="tableType1Box">
+      
 				<table class="tableType1 mt25" cellspacing="0">
 					<tr>
 						<th>モビリティ</th>
