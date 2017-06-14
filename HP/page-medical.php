@@ -142,36 +142,7 @@
 				</dl>
 				
 			</div>
-
-            <div class="hospitalizedListBox mt35">
-        <dl>
-
-                <dt>Award：受賞・受給</dt>
-          <dd>日本ロボット学会　フェロー</dd>
-                    <dd><a href="http://www.rsj.or.jp/about/fellow/" target="_blank"><span>詳しくはこちらをご覧ください</span></a></dd>
-
-        </dl>
-        <dl class="type2">
-          <dt>Journal & Book</dt>
-          <dd>Yutaka Murakami, Yuko Ohno, Kosei Adachi, Nobuhiro Ogasawara, Hiroshi Kobayashi，“Evaluating the clinical applicability of a wearable lift assist device from a nursing perspective”，Journal of Nursing Science and Engineering，Vol.3，No.2, pp.101-108, 2016．</dd>
-          <dd>小林宏，“小児リハビリテーションへのロボット技術の応用”，リハビリテーション医学（The Japanese Journal of Rehabilitation Medicine），Vol.53，No.5, pp.385-391, 2016．</dd>
-        </dl>
-                <dl class="type2">
-          <dt>Oral Presentation in Japanese：口頭発表</dt>
-          <dd>小林宏，佐藤慧一，“装着型腕保持装置の開発と評価”，ロボティクス・メカトロニクス講演会2016 講演概要集，2A1-13b2，2016.6.8-11 (横浜)．</dd>
-          <dd>髙橋夏樹，小林宏，森下光，“外部からの空気供給を必要としない腰補助用マッスルスーツの開発”，ロボティクス・メカトロニクス講演会2016 講演概要集，1P1-14a5，2016.6.8-11 (横浜)．</dd>
-                    <dd>小林宏，菅田昌宏，小川貴文，吉田哲，“ウェアラブルパワーアシスト装置の建設作業への適用”，第16回建設ロボットシンポジウム，O2-5，2016.9.1-2 (中央大学)．</dd>
-        </dl>
-                  <dl class="type2">
-          <dt>Magazine：雑誌・解説</dt>
-          <dd>小林宏，“着用型筋力補助装置「マッスルスーツ(R)」”，エレクトロニクス実装学会誌，Vol.19，No.6, pp.384-388, 2016．</dd>
-          <dd>小林宏，“「マッスルスーツ(R)」の開発経緯と技術概要”，製材機械技術学会誌，Vol.25，No.3, pp.31-36, 2016．</dd>
-                    <dd>小林宏，“空気圧ゴムアクチュエータを用いたマッスルスーツ(R)”，ソフトアクチュエータの材料・構成・応用技術（Ｓ＆Ｔ出版），pp.260-266, 2016．</dd>
-        </dl>
-
-
-
-      </div>
+    
 
     </section>
 
